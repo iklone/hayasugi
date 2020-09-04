@@ -1,6 +1,7 @@
 <head>
     <title>Hayasugi</title>
     <link rel = "stylesheet" type = "text/css" href = "./main.css">
+    <link rel="icon" type="image/png" href="./favicon.png"/>
 </head>
 <body>
     <div id="banner">
